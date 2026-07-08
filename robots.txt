@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuji-pipe-inspection.peiqirui.com/sitemap.xml
